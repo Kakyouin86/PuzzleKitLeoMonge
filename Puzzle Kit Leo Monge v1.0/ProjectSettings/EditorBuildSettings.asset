@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Menu Leo.unity
-    guid: 00d5a458c7798094ebb4ebb2dd09fb0f
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/ExampleMenu.unity
+    guid: 0d85e03bacb199f408b4439fac4e3d46
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 1 (Leo).unity
-    guid: 55a1def140e299441b7e38b2e890ca71
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level01.unity
+    guid: 2e165c8be289f47448ae22da26c690f2
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 2 (Leo).unity
-    guid: 3dce7871a99a73d45bb5469a9f23f963
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level02.unity
+    guid: 8587612e8826fec4994aafd966fa4dc3
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level03.unity
+    guid: 8e80dae27616da241995f2290dca03b7
   m_configObjects: {}
